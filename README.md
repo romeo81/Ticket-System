@@ -1,4 +1,4 @@
-# 🎫 TicketFlow – Jira-like Ticket Management System
+# 🎫 TicketFlow – Ticket Management System
 
 A full-featured ticket management system with Docker containerization, wiki knowledge base, Discord integration, and more.
 
