@@ -20,7 +20,7 @@ A full-featured ticket management system with Docker containerization, wiki know
 ### Launch
 
 ```bash
-cd my_company_tickets
+cd Ticket-System
 docker compose up --build -d
 ```
 
